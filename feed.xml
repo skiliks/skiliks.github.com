@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://skiliks.github.com</id>
+    <updated>2013-03-12T20:37:06+02:00</updated>
+    <title>Skiliks PEAR Channel Latest Releases</title>
+    <link href="http://skiliks.github.com/feed.xml" rel="self" />
+    <author>
+        <name>http://skiliks.github.com</name>
+    </author>
+
+    <entry>
+        <title>PHPUnit_TestListener_TeamCity 0.1.3 (beta)</title>
+        <link href="http://skiliks.github.com/get/PHPUnit_TestListener_TeamCity-0.1.3.tgz" />
+        <id>http://skiliks.github.com/get/PHPUnit_TestListener_TeamCity-0.1.3.tgz</id>
+        <author>
+            <name>alexanderilyin</name>
+        </author>
+        <updated>2013-03-12T17:56:47+02:00</updated>
+        <content>
+            
+Updates after internal testing
+ 
+        </content>
+    </entry>
+</feed>

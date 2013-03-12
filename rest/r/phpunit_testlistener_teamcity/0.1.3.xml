@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/phpunit_testlistener_teamcity">PHPUnit_TestListener_TeamCity</p>
+    <c>skiliks.github.com</c>
+    <v>0.1.3</v>
+    <st>beta</st>
+    <l>MIT</l>
+    <m>alexanderilyin</m>
+    <s>PHPUnit &amp;amp; TeamCity Integration</s>
+    <d>Based on PHPUnit's TestListner and TeamCity's Service Messages providing realtime test reporting during build process.</d>
+    <da>2013-03-12 17:56:47</da>
+    <n>
+Updates after internal testing
+ </n>
+    <f>2343</f>
+    <g>http://skiliks.github.com/get/PHPUnit_TestListener_TeamCity-0.1.3</g>
+    <x xlink:href="package.0.1.3.xml"/>
+</r>

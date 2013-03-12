@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>skiliks.github.com</name>
+  <summary>Skiliks PEAR Channel</summary>
+  <alias>skiliks</alias>
+  <url>http://skiliks.github.com</url>
+</server>

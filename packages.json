@@ -1,0 +1,40 @@
+{
+    "pear-skiliks\/PHPUnit_TestListener_TeamCity": {
+        "versions": {
+            "0.1.3": {
+                "name": "pear-skiliks\/PHPUnit_TestListener_TeamCity",
+                "description": "PHPUnit &amp;amp; TeamCity Integration",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/skiliks.github.com\/get\/PHPUnit_TestListener_TeamCity-0.1.3.tgz"
+                },
+                "version": "0.1.3",
+                "time": "2013-03-12T17:56:47+02:00",
+                "require": {
+                    "php": ">=5.0.0"
+                },
+                "authors": [
+                    {
+                        "name": "Alexander Ilyin",
+                        "email": "alexande@ilyin.eu",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "Extensions\/TeamCity\/TestListener.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-skiliks\/PHPUnit_TestListener_TeamCity",
+        "description": "PHPUnit &amp;amp; TeamCity Integration",
+        "maintainers": [
+            {
+                "name": "Alexander Ilyin",
+                "email": "alexande@ilyin.eu",
+                "homepage": ""
+            }
+        ]
+    }
+}
